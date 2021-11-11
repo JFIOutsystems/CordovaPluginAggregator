@@ -13,6 +13,8 @@
     "Cordova Plugin Aggregator"
   ],
   "dependencies": {
+    "cordova-plugin-app-launcher": "OutSystems/cordova-plugin-app-launcher",
+    "cordova-plugin-badge": "OutSystems/cordova-plugin-badge#0.8.8-OS"
   },
   "repositories": [
     {
