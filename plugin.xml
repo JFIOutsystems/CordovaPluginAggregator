@@ -97,6 +97,6 @@
   
   <dependency id="cordova-plugin-cookieemperor" url="https://github.com/OutSystems/cordova-cookie-emperor" commit="1.0" version="1.0.0" />
 
-  <dependency id="cordova-plugin-badge" url="https://github.com/OutSystems/cordova-plugin-badge" commit="0.8.8" version="0.8.8" />
+  <dependency id="cordova-plugin-badge" url="https://github.com/OutSystems/cordova-plugin-badge" commit="0.8.8-OS" version="0.8.8-OS" />
 	
 </plugin>
